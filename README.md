@@ -1,5 +1,8 @@
 # The creative art of algorithmic embroidery 
-[PyCon US 2023](https://us.pycon.org/2023/schedule/presentation/141/)
+## Presented at PyCon US 2023
+<img src="thumbnail.jpg" width="400" />
+
+Watch the talk on [YouTube](https://youtu.be/OcuhrDIrblo).
 
 ## Description
 For thousands of years, people have created beautiful patterns through intricate needlework.
